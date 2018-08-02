@@ -1,1 +1,1 @@
-./nodebb setup
+web: ./nodebb setup
